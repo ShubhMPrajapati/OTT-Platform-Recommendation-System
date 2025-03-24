@@ -34,7 +34,7 @@ In today's digital landscape, choosing the right movie or show can be overwhelmi
 - Optimize scalability for large-scale OTT platforms.  
 
 ## Contributors
-- 👤 Shubham Prajapati - GitHub
+- 👤 Shubham Prajapati
 - 👤 Velon Murugathas
 - 👤 Varshan Shankar
 - 👤 Harshvardhan Tyagi
